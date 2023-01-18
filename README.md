@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pw1
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# projetopw1
+>>>>>>> 32574ed8117e3cfd75c69a9e2b25962bf7936e26
